@@ -1,0 +1,6 @@
+gyyx\model\Game.class
+gyyx\service\GameServiceI.class
+gyyx\dao\GameMapper.class
+gyyx\service\GameServiceImpl.class
+com\gyyx\app\HomeController.class
+gyyx\controller\GameServerController.class
